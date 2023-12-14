@@ -1,0 +1,103 @@
+.reg-landing-row{
+    margin-top: 7%;
+}
+
+img{
+    width: 90%;
+    margin-left: 5%;
+    height: 300px;
+    
+}
+
+.reg-form-col h1{
+    text-align: center;
+}
+
+
+.reg-form-col{
+    display: flex;
+  justify-content: center; /* Horizontal centering */
+  align-items: center;
+}
+
+.reg-form-div{
+    width: 100%;
+}
+
+.reg-form-div h6{
+    text-align: center;
+    margin-top: 3%;
+}
+
+.reg-form{
+    width: 50%;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+.btn-primary{
+    background-color: #6C63FF;
+    margin: auto;
+    display: flex;
+}
+
+.navbar{
+    background-color: #6C63FF;
+}
+
+.link{
+    color: aliceblue;
+}
+
+.facebook-login{
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 3%;
+}
+
+.empty-img{
+    width: 400px;
+    height: 400px;
+    margin: auto;
+    display: flex;
+    margin-top: 10%;
+}
+
+.submit{
+    margin-top: 5%;
+}
+
+.profile-form{
+    width: 50%;
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-top: 5%;
+}
+
+.first-row{
+
+    margin-top: 10%;
+
+
+}
+
+a{
+    text-decoration: none;
+    color: #6C63FF;
+}
+
+.heart{
+    color: #6C63FF;
+    position: fixed;
+    bottom: 0;
+}
+
+.home-link-title{
+    text-align: center;
+}
+
+.home-row{
+    position: relative;
+    display: flex;
+    align-items: center;
+}
